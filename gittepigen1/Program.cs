@@ -11,6 +11,7 @@ namespace gittepigen1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello gittepigen1");
+            Console.WriteLine("Ny Ændring");
             Console.ReadLine();
         }
     }
