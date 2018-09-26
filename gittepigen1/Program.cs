@@ -10,7 +10,7 @@ namespace gittepigen1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello gittepigen1");
+            Console.WriteLine("Hello gittepigen1 ændret på pc2");
             Console.WriteLine("Ny Ændring");
             Console.ReadLine();
         }
