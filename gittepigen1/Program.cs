@@ -10,6 +10,8 @@ namespace gittepigen1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello gittepigen1");
+            Console.ReadLine();
         }
     }
 }
